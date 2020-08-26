@@ -25,3 +25,11 @@ A ^ P ^ B ^ A = Incorrect, compromised alphabetical order (1st = A, 2nd = C)
 
 
 * NOTE: For more information, see the .pdf in its folder, only available in PT/BR.
+
+
+By:
+João Pedro Elger &
+João Pedro Pastório
+
+Educational Purposes Only
+Made in the first semester of our degree in UTFPR
